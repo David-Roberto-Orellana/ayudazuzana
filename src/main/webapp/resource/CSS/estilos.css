@@ -1,0 +1,17 @@
+
+.body {
+background-image:url("resource/imagenes/fondo.jpg");
+background-repeat: no-repeat;
+width: 100%;
+height: 100%;
+
+}
+label{
+    font-family:  'Arimo', sans-serif;
+    color: #424242;
+    font-size: 17px;
+}
+.container{
+    margin-left: 10%;
+    margin-right: 10%;
+}

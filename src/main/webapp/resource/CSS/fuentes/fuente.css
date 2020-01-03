@@ -1,0 +1,7 @@
+@font-face{
+    font-family: AbecedarianZoo;
+    src:url(fuente/AbecedarianZoo.ttf);
+}
+p{
+    font-family: AbecedarianZoo;
+}
